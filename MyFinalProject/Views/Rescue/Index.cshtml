@@ -1,0 +1,57 @@
+﻿@model  IEnumerable<Rescue>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!--SubBanner start-->
+<section id="sub-banner" style="background-image: url('../img/paw.jpg')">
+    <div class="all-title-box">
+        <div class="container ">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>ABOUT US</h2>
+                    <ul class="breadcrumb">
+                        <li><a asp-controller="home">Home</a></li>
+                        <li class="breadcrumb-item active"> / Donate</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--SubBanner end-->
+<!--  Donate start -->
+<section id="donate">
+    <div class="container">
+        <div class="row heading-row justify-content-center pt-5 ">
+            <h2 class="section-title text-black">
+                They need your love!
+            </h2>
+        </div>
+        <div class="row heading-row justify-content-center pt-3 pb-5 ">
+            @foreach (var rescue in Model)
+            {
+                <div class="donate-item col-lg-4  col-md-6 col-sm-12  ">
+                    <div class="item">
+                        <a href="/rescues/details/@rescue.Id">
+                            <img src="img/@rescue.RescuePhotos.FirstOrDefault()?.Image">
+                        </a>
+                    </div>
+                    <div class="news-header pt-4 pb-4">
+                        <h5>@rescue.Name</h5>
+                        <P>@rescue.Description</P>
+                        <div class="button-donate">
+                            <button class="btn"><a href=""></a>Donate</button>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+       
+        <div class="row">
+            <button id="load_more"  class="btn btn-outline-primary w-50 mx-auto my-5">Load more</button>
+        </div>
+    </div>
+</section>
+<!--  Donate end -->
+

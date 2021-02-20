@@ -1,0 +1,31 @@
+﻿@model FaqCollapse
+@{
+    ViewData["Title"] = "CreateQuestion";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+
+}
+
+
+
+<form method="post" style="padding-top:20px;" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Desc"></label>
+        <input asp-for="Desc" class="form-control" />
+        <span asp-validation-for="Desc" class="text-danger"></span>
+    </div>
+
+    <input type="submit" class="btn btn-success btn-lg btn-block" value="Create" />
+</form>
+<a asp-area="Admin" asp-controller="AboutPageController" asp-action="Question">
+</a>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+

@@ -1,0 +1,44 @@
+﻿@model Blog
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+
+}
+
+    <form method="post" style="padding-top:15px;" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="MainPhoto"></label>
+            <input asp-for="MainPhoto" accept="image/*" class="form-control" />
+            <span asp-validation-for="MainPhoto" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label>Current Image</label>
+            <img src="~/img/@Model.MainImageUrl" class="img-thumbnail" style="display: block;" width="400" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Header"></label>
+            <input asp-for="Header" class="form-control" />
+            <span asp-validation-for="Header" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Content"></label>
+            <input asp-for="Content" class="form-control" />
+            <span asp-validation-for="Content" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="PublishDate"></label>
+            <input asp-for="PublishDate" class="form-control" />
+            <span asp-validation-for="PublishDate" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="UpdatedDate"></label>
+            <input asp-for="UpdatedDate" class="form-control" />
+            <span asp-validation-for="UpdatedDate" class="text-danger"></span>
+        </div>
+
+        <input type="submit" class="btn btn-warning btn-lg btn-block" value="Edit" />
+        <a asp-action="Index" class="btn btn-primary btn-block btn-lg" style="margin: 30px 0;">
+            <i class="fas fa-long-arrow-alt-left"></i> Back to Index
+        </a>
+    </form>
+

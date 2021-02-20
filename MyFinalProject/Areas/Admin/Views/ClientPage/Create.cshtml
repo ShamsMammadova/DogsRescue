@@ -1,0 +1,44 @@
+﻿@model FosterFamily
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+
+}
+
+
+<div class="row " style="padding-top:15px;">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+</div>
+
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Photo"></label>
+        <input asp-for="Photo" accept="image/*" class="form-control" />
+        <span asp-validation-for="Photo" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Info"></label>
+        <input asp-for="Info" class="form-control" />
+        <span asp-validation-for="Info" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Text"></label>
+        <input asp-for="Text" class="form-control" />
+        <span asp-validation-for="Text" class="text-danger"></span>
+    </div>
+
+    <input type="submit" class="btn btn-success btn-lg btn-block" value="Create" />
+</form>
+<a asp-area="Admin" asp-controller="ClientPageController" asp-action="Client">
+</a>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+

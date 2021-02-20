@@ -1,0 +1,45 @@
+﻿@model HomeVM
+
+@{
+    ViewData["Title"] = "Fact";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row" style="margin: 30px 0;">
+
+    <table class="table table-bordered table-hover table-responsive">
+        <thead>
+            <tr>
+                <th>Icon</th>
+                <th>Head</th>
+                <th>Info</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @{int count = 1;}
+            @foreach (var item in Model.facts)
+            {
+                <tr>
+                    <td>
+                        @item.Icon
+                    </td>
+                    <td>
+                        @item.Head
+                    </td>
+                    <td>
+                        @item.Info
+                    </td>
+                    <td style="vertical-align: middle; text-align: center;">
+                        <a title="Edit Fact" asp-action="EditFact" asp-route-id="@item.Id" class="btn btn-warning"><i class="fas fa-edit"></i></a>
+                        <a title="See details" asp-action="Detailsfact" asp-route-id="@item.Id" class="btn btn-success"><i class="fas fa-eye"></i></a>
+
+                    </td>
+                </tr>
+                count++;
+            }
+        </tbody>
+    </table>
+   </div>
+

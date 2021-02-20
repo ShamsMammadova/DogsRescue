@@ -1,0 +1,51 @@
+﻿@*@using MyFinalProject.Models*@
+@model IList<AppUser>
+@{
+    ViewData["Title"] = "Role";
+        Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+
+}
+<div class="scrollmenu">
+    <div class="container" style="margin-top: 100px;">
+        <div class="row">
+            <table class="table">
+                <thead class="thead-dark">
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Surname</th>
+                        <th scope="col">Username</th>
+                        <th scope="col">Email</th>
+                        <th scope="col">Make Admin</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{int count = 1;}
+                    @foreach (AppUser item in Model)
+                    {
+                        <tr>
+                            <th scope="row">@count</th>
+                            <td>@item.Name</td>
+                            <td>@item.Surname</td>
+                            <td>@item.UserName</td>
+                            <td>@item.Email</td>
+                            <td><a asp-area="Dashboard" asp-controller="Dashboard" asp-action="MakeAdmin" asp-route-id="@item.Id"><i class="fas fa-ad">Make admin</i></a></td>
+
+                        </tr>
+                        count++;
+                    }
+
+
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<style>
+    div.scrollmenu {
+        overflow: auto;
+        white-space: nowrap;
+    }
+</style>
+

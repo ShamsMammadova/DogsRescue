@@ -1,0 +1,107 @@
+﻿@model MissionVM
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<!--SubBanner start-->
+<section id="sub-banner" style="background-image: url('../img/paw.jpg')">
+    <div class="all-title-box">
+        <div class="container ">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>ABOUT US</h2>
+                    <ul class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        <li class="breadcrumb-item active">About us / Our Mission</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--SubBanner end-->
+<!--Detail start-->
+<section id="detail">
+    <div class="container">
+        <div class="row pt-5">
+            <div class="col-lg-12 col-md-6 col-sm-12 col-xs-12">
+                <div class="img">
+                    <img src="~/img/@Model.missionImage.Image" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="row pt-5">
+            <div class="col-xl-6 about-text-left">
+                <h5>ABOUT US</h5>
+                <p>
+                    @Model.ourMission.Description1
+                </p>
+                <p>
+                    @Model.ourMission.Description2
+                </p>
+            </div>
+            <div class="col-xl-6 about-text-right">
+                <h5>Our Mission</h5>
+                <p>
+                    We rescue, rehabilitate and rehome street dogs from Baku, Azerbaijan. We promote Baku street dogs to be accepted as pets and part of the family. Baku dogs are unique and have 
+                    a wonderful personality and make great companion animals.
+                </p>
+                <ul class="about-list">
+                    @foreach (var item in Model.ourActivities)
+                    {
+                        <li>
+                            <i class="far fa-check-circle"></i>@item.Activity
+                        </li>
+                    }
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</section>
+<!--Detail end-->
+<!--Testimonial start-->
+<section id="client">
+    <div class="container ">
+        <div class="row heading-row justify-content-center pt-5">
+            <h2 class="section-title text-black">
+                Foster Family
+            </h2>
+        </div>
+        <div class="row body-row justify-content-center">
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    @foreach (var item in Model.fosterFamilies)
+                    {
+                        <div class="item carousel-item @item.Active">
+                            <div class="img-box"><img src="~/img/@item.Image" alt=""></div>
+                            <p class="testimonial">
+                                @item.Text
+                            </p>
+                            <p class="overview"><b>@item.Name</b>@item.Info at <a href="#">OsCorp Tech.</a></p>
+                            <div class="star-rating">
+                                <ul class="list-inline">
+                                    <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                    <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                    <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                    <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                    <li class="list-inline-item"><i class="fa fa-star-o"></i></li>
+                                </ul>
+                            </div>
+                        </div>
+                    }
+                </div>
+                <!-- Carousel controls -->
+                <a class="carousel-control left carousel-control-prev" href="#myCarousel" data-slide="prev">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                <a class="carousel-control right carousel-control-next" href="#myCarousel" data-slide="next">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Testimonial  end-->

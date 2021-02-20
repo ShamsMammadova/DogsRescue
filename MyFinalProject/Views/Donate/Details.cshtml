@@ -1,0 +1,61 @@
+﻿@model DonateDetailsVM
+<!--SubBanner start-->
+<section id="sub-banner" style="background-image: url('../../img/paw.jpg')">
+    <div class="all-title-box">
+        <div class="container ">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>ABOUT US</h2>
+                    <ul class="breadcrumb">
+                        <li><a asp-controller="home">Home</a></li>
+                        <li class="breadcrumb-item active">About us</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--SubBanner end-->
+
+<div class="event_details_area section__padding">
+    <div class="container">
+        <div class="row" style="padding-top:10%; padding-bottom:4%;">
+            <div class="col-lg-12">
+                <div class="single_event d-flex align-items-center">
+                    <div class="thumb">
+                        <img src="~/img/@Model.Donate.MainImageUrl" alt="" style="width:458px;">
+                    </div>
+                    <div class="event_details_info">
+                        <div class="event_info">
+                            <a href="#">
+                                <h4>@Model.Donate.Name</h4>
+                            </a>
+                            <p><span> <i class="flaticon-clock"></i> 10:30 pm</span> <span> <i class="flaticon-calendar"></i> 21 Nov 2020 </span> <span> <i class="flaticon-placeholder"></i> Baku</span> </p>
+                        </div>
+                        <p class="event_info_text">
+                            @Model.Donate.Info
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        @*<div class="row pb-4">
+            <div class="col-md-6">
+                <form action="action">
+                    <label for="fname">Name:</label><br>
+                    <input type="text" id="fname" name="fname" value=""><br>
+                    <label for="lname">Surname:</label><br>
+                    <input type="text" id="lname" name="lname" value=""><br><br>
+
+                </form>
+                <textarea id="w3mission" rows="4" cols="50">
+                </textarea>
+                <a href="#" class="boxed-btn3">Adopt</a>
+            
+        
+            </div>
+        </div>*@
+    </div>
+</div>
+
+

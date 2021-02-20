@@ -1,0 +1,131 @@
+﻿@model AboutVM
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+@*<div id="preloader">
+        <img src="img/preloader.gif" alt="">
+    </div>*@
+
+
+<!--SubBanner start-->
+<section id="sub-banner" style="background-image: url('../img/paw.jpg')">
+    <div class="all-title-box">
+        <div class="container ">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>ABOUT US</h2>
+                    <ul class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        <li class="breadcrumb-item active">About us</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--SubBanner end-->
+
+
+<!-- About start -->
+<section id="video">
+    <div class="container  pb-5">
+        <div class="row align-items-center">
+            <div class="col-md-6 mb-5 mb-md-0">
+                <a href="@Model.mainAbout.ImageLink" class="popup-vimeo image-play">
+                    <span class="icon-wrap">
+                        <i class="fas fa-play-circle"></i>
+                    </span>
+                    <img src="img/@Model.mainAbout.Image" alt="" class="img-fluid">
+                </a>
+            </div>
+            <div class="col-md-5 ml-auto">
+                <h2 class="h2  mb-0">Who we are</h2>
+                <p class="h5 mb-2">
+                    @Model.aboutInfo.Description
+                </p><a asp-controller="Mission" asp-action="Index">Read More</a>
+
+            </div>
+        </div>
+    </div>
+</section>
+<!-- About end-->
+
+
+<!-- Team section start-->
+<section id="team">
+    <div class="container pt-5 pb-5">
+        <div class="team-title text-center">
+            <h3>Meet Our Volunteer</h3>
+            <p>Our directory of real estate agents who can help you</p>
+        </div>
+        <div class="row">
+            @foreach (var item in Model.teams)
+            {
+                <div class="col-lg-3 col-md-6">
+                    <div class="team-member">
+                        <div class="member-pic">
+                            <img src="img/@item.Image" alt="">
+                            <div class="member-social">
+                                <a href=""><i class="fab fa-facebook-f"></i></a>
+                                <a href=""><i class="fab fa-instagram"></i></a>
+                                <a href=""><i class="fab fa-twitter"></i></a>
+
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h5>@item.Name</h5>
+                            <span>@item.Info</span>
+                            <div class="member-contact">
+                                <p><i class="fa fa-envelope"></i>@item.Email</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+<!-- Team section end-->
+<!-- Faqsection start-->
+<section id="fq">
+    <div class="container-fluid bg-gray pt-3 pb-5" id="accordion-style-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="faq-title">
+                        <h2>Asked Questions</h2>
+                    </div>
+                </div>
+                <div class="col-12 mx-auto">
+                    <div class="accordion" id="accordionExample">
+                        @foreach (var item in Model.faqCollapses)
+                        {
+                            <div class="card">
+                                <div class="card-header" id="@item.Heading">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link btn-block text-left" type="button"
+                                                data-toggle="collapse" data-target="#@item.Collapse" aria-expanded="true"
+                                                aria-controls="@item.Collapse">
+                                            <i class="fa fa-angle-double-right mr-3"></i>@item.Title
+                                        </button>
+                                    </h5>
+                                </div>
+
+                                <div id="@item.Collapse" class="collapse @item.Show fade" aria-labelledby="@item.Heading"
+                                     data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        @item.Desc
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Faqsection end-->

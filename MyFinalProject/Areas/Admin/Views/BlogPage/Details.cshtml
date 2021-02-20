@@ -1,0 +1,40 @@
+﻿@model Blog
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="container-fluid">
+    <div class="row" style="padding-top:10px;">
+        <div class="col-12">
+            <img class="img-thumbnail" style="width:400px;"src="~/img/@Model.MainImageUrl"/>
+        </div>
+        <div class="col-12">
+            <p><b>Name</b> - @Model.Header</p>
+        </div>
+        <div class="col-12">
+            <p><b>City</b> - @Model.Content</p>
+        </div>
+        <div class="col-12">
+            <p><b>Email</b> - @Model.PublishDate</p>
+        </div>
+        <div class="col-12">
+            <p><b>Email</b> - @Model.UpdatedDate</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning btn-block btn-lg" style="margin: 30px 0;">
+            <i class="fas fa-pen"></i> Edit
+        </a>
+        <a asp-action="Index" class="btn btn-primary btn-block btn-lg" style="margin: 30px 0;">
+            <i class="fas fa-long-arrow-alt-left"></i> Back to Index
+        </a>
+    </div>
+</div>
+
+

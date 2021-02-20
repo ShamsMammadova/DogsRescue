@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Donate>
+<div class="row heading-row justify-content-center pt-3 pb-5 proList ">
+    @foreach (var donate in Model)
+    {
+        <div class="donate-item col-lg-4  col-md-6 col-sm-12  ">
+            <div class="item">
+                <a asp-action="details" asp-route-id="@donate.Id">
+                    <img src="~/img/@donate.MainImageUrl" class="img-fluid w-100">
+                </a>
+            </div>
+            <div class="news-header pt-4 pb-4">
+                <h5>@donate.Name</h5>
+                <p>@donate.Info</p>
+                <div class="button-donate">
+                    <button class="btn">Detail</button>
+                </div>
+            </div>
+        </div>
+
+    }
+</div>

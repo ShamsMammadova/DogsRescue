@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\img\blog\**" />
+    <Content Remove="wwwroot\img\blog\**" />
+    <EmbeddedResource Remove="wwwroot\img\blog\**" />
+    <None Remove="wwwroot\img\blog\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200323221031_CreateOurTable.cs" />
+    <Compile Remove="Migrations\20200323221031_CreateOurTable.Designer.cs" />
+    <Compile Remove="Migrations\20200412113450_CreatePhotoTable.cs" />
+    <Compile Remove="Migrations\20200412113450_CreatePhotoTable.Designer.cs" />
+    <Compile Remove="Migrations\20200412113609_CreateDonateTable.cs" />
+    <Compile Remove="Migrations\20200412113609_CreateDonateTable.Designer.cs" />
+    <Compile Remove="Migrations\20200412114538_CreateRescueTable.cs" />
+    <Compile Remove="Migrations\20200412114538_CreateRescueTable.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Models\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Rescue>
+
+@foreach (var rescue in Model)
+{
+    <div class="donate-item col-lg-4  col-md-6 col-sm-12  ">
+        <div class="item">
+            <a href="/rescues/details/@rescue.Id"></a>
+            <img src="img/@rescue.RescuePhotos.First().Image">
+        </div>
+        <div class="news-header pt-4 pb-4">
+            <h5>@rescue.Name</h5>
+            <P>@rescue.Description</P>
+            <div class="button-donate">
+                <button class="btn">Donate</button>
+            </div>
+        </div>
+    </div>
+}

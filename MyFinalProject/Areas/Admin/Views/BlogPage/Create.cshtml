@@ -1,0 +1,45 @@
+﻿@model Blog
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row pt-5" style="padding-top:15px;">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+</div>
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="MainPhoto"></label>
+        <input asp-for="MainPhoto" accept="image/*" class="form-control" />
+        <span asp-validation-for="MainPhoto" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Header"></label>
+        <input asp-for="Header" class="form-control" />
+        <span asp-validation-for="Header" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Content"></label>
+        <input asp-for="Content" class="form-control" />
+        <span asp-validation-for="Content" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PublishDate"></label>
+        <input asp-for="PublishDate" class="form-control" />
+        <span asp-validation-for="PublishDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="UpdatedDate"></label>
+        <input asp-for="UpdatedDate" class="form-control" />
+        <span asp-validation-for="UpdatedDate" class="text-danger"></span>
+    </div>
+
+    <input type="submit" class="btn btn-success btn-lg btn-block" value="Create" />
+</form>
+<a asp-area="Admin" asp-controller="AboutPageController" asp-action="Index">
+</a>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+

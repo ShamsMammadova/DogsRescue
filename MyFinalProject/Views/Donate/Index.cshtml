@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Donate>
+
+
+@*<div id="preloader">
+    <img src="~/img/preloader.gif" alt="">
+</div>*@
+
+
+<!--SubBanner start-->
+<section id="sub-banner" style="background-image: url(img/paw.jpg)">
+    <div class="all-title-box">
+        <div class="container ">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>ABOUT US</h2>
+                    <ul class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        <li class="breadcrumb-item active">Donate</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--SubBanner end-->
+
+
+<!--  Donate start -->
+<section id="donate">
+    <div class="container">
+        <div class="row heading-row justify-content-center pt-5 ">
+            <h2 class="section-title text-black"style="font-size:23px;">
+             THEY NEED YOU CARE & LOVE
+            </h2>
+        </div>
+        <div id="_Donatepartial">
+            <partial name="_Donatepartial" />
+        </div>
+        <div class="row pt-3  pb-5">
+            <button id="load_more" class="btn btn-outline-success w-100 mx-auto my-5">Load more</button>
+        </div>
+
+    </div>
+</section>
+<!--  Donate end -->

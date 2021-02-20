@@ -1,0 +1,250 @@
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.deps.json
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.runtimeconfig.json
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.runtimeconfig.dev.json
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.dll
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.pdb
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.Views.dll
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.Views.pdb
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.csprojAssemblyReference.cache
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorAssemblyInfo.cache
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorAssemblyInfo.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.AssemblyInfoInputs.cache
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.AssemblyInfo.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.TagHelpers.input.cache
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.TagHelpers.output.cache
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorCoreGenerate.cache
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorTargetAssemblyInfo.cache
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorTargetAssemblyInfo.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.Views.pdb
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.dll
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.pdb
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.csproj.CopyComplete
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\User\Logout.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Dashboard\Role.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Detail\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Mission\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.deps.json
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.runtimeconfig.json
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.runtimeconfig.dev.json
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.dll
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.pdb
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.Views.dll
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.Views.pdb
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.csprojAssemblyReference.cache
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorAssemblyInfo.cache
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorAssemblyInfo.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.AssemblyInfoInputs.cache
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.AssemblyInfo.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.TagHelpers.input.cache
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.TagHelpers.output.cache
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorCoreGenerate.cache
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Dashboard\Role.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Detail\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Mission\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\User\Logout.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorTargetAssemblyInfo.cache
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorTargetAssemblyInfo.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.Views.pdb
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.dll
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.pdb
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.csproj.CopyComplete
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AboutPage\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AboutPage\AccordionUpdate.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HomePage\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HomePage\SliderUpdate.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HomePage\FactUpdate.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.deps.json
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.runtimeconfig.json
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.runtimeconfig.dev.json
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.dll
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.pdb
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.Views.dll
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.Views.pdb
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.csprojAssemblyReference.cache
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorAssemblyInfo.cache
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorAssemblyInfo.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.AssemblyInfoInputs.cache
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.AssemblyInfo.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.TagHelpers.input.cache
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.TagHelpers.output.cache
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorCoreGenerate.cache
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AboutPage\AccordionUpdate.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AboutPage\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Dashboard\Role.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HomePage\FactUpdate.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HomePage\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HomePage\SliderUpdate.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Detail\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Mission\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\User\Logout.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorTargetAssemblyInfo.cache
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorTargetAssemblyInfo.cs
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.Views.pdb
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.dll
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.pdb
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.csproj.CopyComplete
+C:\Users\Shamsiye\source\repos\GraduationProject\GraduationProject\New folder\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\MissionPage\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.deps.json
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.runtimeconfig.json
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.runtimeconfig.dev.json
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.dll
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.pdb
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.Views.dll
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\bin\Debug\netcoreapp2.1\MyFinalProject.Views.pdb
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.csprojAssemblyReference.cache
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorAssemblyInfo.cache
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorAssemblyInfo.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.AssemblyInfoInputs.cache
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.AssemblyInfo.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.TagHelpers.input.cache
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.TagHelpers.output.cache
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorCoreGenerate.cache
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Dashboard\Role.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Mission\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\User\Logout.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorTargetAssemblyInfo.cache
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.RazorTargetAssemblyInfo.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.Views.pdb
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.dll
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.pdb
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.csproj.CopyComplete
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AboutPage\Team.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AboutPage\Details.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AboutPage\Edit.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AboutPage\Delete.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Blog\Default.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ErrorPage.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Ajax\_LoadBlogsPartialView.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AboutPage\Create.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Rescue\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ClientPage\Client.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ClientPage\Create.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ClientPage\Details.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ClientPage\Edit.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ClientPage\Delete.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HomePage\Slider.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HomePage\Delete.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HomePage\Details.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HomePage\Create.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_RescuesPartial.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AboutPage\Question.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AboutPage\CreateQuestion.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AboutPage\EditQuestion.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\BlogPage\Create.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\BlogPage\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\BlogPage\Details.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\BlogPage\Delete.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\BlogPage\Edit.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shopping\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shopping\Checkout.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PartnerPage\Partner.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PartnerPage\Edit.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PartnerPage\Delete.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\MissionPage\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\MissionPage\Edit.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ShoppingPage\Shop.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Product\Shop.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Product\Checkout.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ShoppingPage\Create.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ShoppingPage\Edit.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ShoppingPage\Delete.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ShoppingPage\Details.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\User\ConfirmEmail.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Rescue\Details.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HomePage\Fact.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HomePage\DetailsFact.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\HomePage\EditFact.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ContactPage\Contact.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ContactPage\Delete.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ContactPage\Details.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ContactPage\Edit.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Donate\Details.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Donate\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_DonatePartial.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\PartnerPage\Create.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Donate\Create.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Donate\Delete.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Donate\Details.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Donate\Donate.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Donate\Edit.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\Razor\Views\ProductList\Index.cshtml.g.cs
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Shamsiye\source\repos\END PROJECT\GraduationProject\MyFinalProject\MyFinalProject\obj\Debug\netcoreapp2.1\MyFinalProject.genruntimeconfig.cache

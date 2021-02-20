@@ -1,0 +1,24 @@
+﻿@model OurPartner
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row " style="padding-top:20px;">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+</div>
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Photo"></label>
+        <input asp-for="Photo" accept="image/*" class="form-control" />
+        <span asp-validation-for="Photo" class="text-danger"></span>
+    </div>
+    <input type="submit" class="btn btn-success btn-lg btn-block" value="Create" />
+</form>
+<a asp-area="Admin" asp-controller="PartnerPageController" asp-action="Partner">
+</a>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+

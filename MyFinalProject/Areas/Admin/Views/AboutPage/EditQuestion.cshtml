@@ -1,0 +1,32 @@
+﻿@model FaqCollapse
+
+@{
+    ViewData["Title"] = "EditQuestion";
+        Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+
+}
+
+<form method="post" enctype="multipart/form-data">
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Desc"></label>
+        <textarea asp-for="Desc" class="form-control" rows="10"></textarea>
+    </div>
+
+    <input type="submit" value="Update" class="btn btn-warning btn-lg btn-block" />
+</form>
+
+
+@section scripts{
+    <script src="https://cdn.ckeditor.com/ckeditor5/12.3.0/classic/ckeditor.js"></script>
+    <script>
+        ClassicEditor
+            .create(document.querySelector('#Desc'));
+    </script>
+}

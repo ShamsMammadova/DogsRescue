@@ -1,0 +1,33 @@
+﻿@model ContactAdress
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+
+}
+
+<div class="container-fluid">
+    <div class="row " style="padding-top:5%;">
+        <div class="col-12">
+            <p><b>Icon</b> - @Model.Icon</p>
+        </div>
+        <div class="col-12">
+            <p><b>Title</b> - @Model.Title</p>
+        </div>
+        <div class="col-12">
+            <p><b>Desc</b> - @Model.Desc</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning btn-block btn-lg" style="margin: 30px 0;">
+            <i class="fas fa-pen"></i> Edit
+        </a>
+        <a asp-action="Contact" class="btn btn-primary btn-block btn-lg" style="margin: 30px 0;">
+            <i class="fas fa-long-arrow-alt-left"></i> Back to Index
+        </a>
+    </div>
+</div>
+
+

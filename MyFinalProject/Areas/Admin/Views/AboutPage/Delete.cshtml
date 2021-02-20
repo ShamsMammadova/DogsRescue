@@ -1,0 +1,38 @@
+﻿@model Team
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+
+}
+
+
+<div class="container-fluid">
+    <div class="row" style="padding-top:10px;">
+        <div class="col-12">
+            <img class="img-thumbnail" src="~/img/@Model.Image" />
+        </div>
+        <div class="col-12">
+            <p><b>Name</b> - @Model.Name</p>
+        </div>
+        <div class="col-12">
+            <p><b>Info</b> - @Model.Info</p>
+        </div>
+        <div class="col-12">
+            <p><b>Email</b> - @Model.Email</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <form method="post">
+            <div class="alert alert-danger">
+                <p style="padding-top: 0;"><b>Are you sure to delete this volunteer???</b></p>
+            </div>
+            <input type="submit" value="Delete" class="btn btn-block btn-lg btn-danger" />
+        </form>
+        <a asp-action="Team" class="btn btn-primary btn-block btn-lg" style="margin: 30px 0;">
+            <i class="fas fa-long-arrow-alt-left"></i> Back to Index
+        </a>
+    </div>
+</div>

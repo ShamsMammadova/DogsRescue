@@ -1,0 +1,108 @@
+﻿@model HomeVM
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- Slider start -->
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        @foreach (var item in Model.mainSliders)
+        {
+            <div class="carousel-item @item.active">
+                <div class="img-text ">
+                    <h1> @item.Text</h1>
+                    <p>@item.Info</p>
+                </div>
+                <img class="d-block w-100" src="~/img/@item.Image" alt="First slide">
+            </div>
+        }
+    </div>
+</div>
+<!-- Slider end -->
+
+<!--Numbers section end-->
+<section id="icons">
+    <div class="container">
+        <div class="row pt-5 pb-5">
+            @foreach (var item in Model.facts)
+            {
+                <div class="col-md-4 ">
+                    <div class="mediablock d-flex services p-3 py-4 d-block">
+                        <div class="iconca d-flex mb-3"><i class=" @item.Icon fas fa-hand-holding-heart"></i></div>
+                        <div class="media-body pl-4">
+                            <h3 class="heading">@item.Head</h3>
+                            <p>
+                                @item.Info
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+<!--Numbers section end-->
+
+
+
+<!--News section start -->
+<section id="news">
+    <div class="container">
+        <div class="row heading-row justify-content-center pt-3 pb-3">
+            <h2 class="section-title text-black">
+                News & Updates
+            </h2>
+        </div>
+        <div class="row body-row justify-content-center pb-5">
+            @foreach (var blog in Model.Blogs)
+            {
+                <div class="col-md-6 col-lg-4 mb-3">
+                    <div class="single-news">
+                        <div class="images">
+                            <a asp-controller="Blog" asp-action="details" asp-route-id="@blog.Id">
+                                <img src="img/@blog.MainImageUrl">
+                            </a>
+                        </div>
+                        <div class="title">
+                            <div class="news-datebox">
+                                <h4>@blog.UpdatedDate.Day</h4>
+                                <span>@blog.UpdatedDate.ToString("MMM"), @blog.UpdatedDate.Year</span>
+                            </div>
+                            <div class="news-header">
+                                <h5>
+                                    <a href="">
+                                        s
+                                        <a asp-controller="Blog" asp-action="details" asp-route-id="@blog.Id" style="word-break:break-word">
+                                            @blog.Header
+                                        </a>
+                                </h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+</section>
+<!-- News section end -->
+
+
+
+
+<!--Partner section start-->
+<div class="container pb-5 pt-5 ">
+    <div class="logo-head pb-5">
+        <h2>Our Partners</h2>
+    </div>
+    <section class="customer-logos slider pb-5">
+        @foreach (var item in Model.ourPartners)
+        {
+            <div class="slide"><img src="~/img/@item.Image"></div>
+
+        }
+
+    </section>
+</div>
+<!--Partner section end -->
